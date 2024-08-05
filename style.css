@@ -27,3 +27,10 @@ h2{
     width: 100%;
     border-radius: 7px 7px 0px 0px;
 }
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    background-color: tomato;
+    height: 300px;
+}
