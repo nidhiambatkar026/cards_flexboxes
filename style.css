@@ -62,3 +62,45 @@ h2{
     background-color: tomato;
     height: 300px;
 }
+.container7{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    background-color: tomato;
+    height: 300px;
+}
+.container8{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: end;
+    background-color: tomato;
+    height: 300px;
+}
+.container9{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    background-color: tomato;
+    height: 300px;
+}
+.container10{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    background-color: tomato;
+    height: 300px;
+}
+.container11{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    background-color: tomato;
+    height: 300px;
+}
+.container12{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    background-color: tomato;
+    height: 300px;
+}
