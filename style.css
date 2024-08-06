@@ -152,3 +152,51 @@ h2{
     height: 1200px;
     width: 400px;
 }
+.container19{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: start;
+    background-color: tomato;
+    height: 1200px;
+    width: 400px;
+}
+.container20{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: end;
+    background-color: tomato;
+    height: 1200px;
+    width: 400px;
+}
+.container21{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    background-color: tomato;
+    height: 1200px;
+    width: 400px;
+}
+.container22{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+    background-color: tomato;
+    height: 1200px;
+    width: 400px;
+}
+.container23{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    background-color: tomato;
+    height: 1200px;
+    width: 400px;
+}
+.container24{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    background-color: tomato;
+    height: 1200px;
+    width: 400px;
+}
