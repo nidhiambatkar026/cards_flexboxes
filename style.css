@@ -7,7 +7,7 @@ h2{
     display: flex;
     flex-direction: row;
     justify-content: start;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .card{
@@ -22,6 +22,9 @@ h2{
     margin-top: 20px;
     cursor: pointer;
 }
+.card:hover{
+    box-shadow: 0px 10px 7px 2px white;
+}
 .img_card{
     height: 150px;
     width: 100%;
@@ -31,84 +34,84 @@ h2{
     display: flex;
     flex-direction: row;
     justify-content: end;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container3{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container4{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container5{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container6{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container7{
     display: flex;
     flex-direction: row-reverse;
     justify-content: start;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container8{
     display: flex;
     flex-direction: row-reverse;
     justify-content: end;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container9{
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container10{
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-evenly;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container11{
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container12{
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-around;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 300px;
 }
 .container13{
     display: flex;
     flex-direction: column;
     justify-content: Start;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -116,7 +119,7 @@ h2{
     display: flex;
     flex-direction: column;
     justify-content: end;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -124,7 +127,7 @@ h2{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -132,7 +135,7 @@ h2{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -140,7 +143,7 @@ h2{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -148,7 +151,7 @@ h2{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -156,7 +159,7 @@ h2{
     display: flex;
     flex-direction: column-reverse;
     justify-content: start;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -164,7 +167,7 @@ h2{
     display: flex;
     flex-direction: column-reverse;
     justify-content: end;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -172,7 +175,7 @@ h2{
     display: flex;
     flex-direction: column-reverse;
     justify-content: center;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -180,7 +183,7 @@ h2{
     display: flex;
     flex-direction: column-reverse;
     justify-content: space-evenly;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -188,7 +191,7 @@ h2{
     display: flex;
     flex-direction: column-reverse;
     justify-content: space-between;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
@@ -196,7 +199,7 @@ h2{
     display: flex;
     flex-direction: column-reverse;
     justify-content: space-around;
-    background-color: tomato;
+    background-color:  #b3cccc;
     height: 1200px;
     width: 400px;
 }
